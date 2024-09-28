@@ -60,6 +60,6 @@ Use some things that people think are outdated
 ## 关于 / About
 有问题，那么，请发邮件给我吧！
 ## 联系方式 / Contact
-[![Email](https://img.shields.io/badge/Email-blue?logoColor=white&style=flat-square&logo=gmail)](mailto:baiziyang2022@yeah.net)
+[![Email](https://img.shields.io/badge/Email-blue?logoColor=white&style=flat-square&logo=gmail)](mailto:baiziyang2022@gmail.net)
 [![Website](https://img.shields.io/badge/Website-blue?logoColor=white&style=flat-square&logo=website)](https://www.ljnt.xyz)
 [![主页Page](https://img.shields.io/badge/HomePage-blue?logoColor=white&style=flat-square&logo=website)](https://ziyang-bai.github.io)
