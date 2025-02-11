@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C9400&width=435&separator=%3C&lines=%E4%BD%A0%E4%BC%9A%E7%94%A8Delphi%E5%90%97%3C%E7%B3%9F%E7%B3%95%EF%BC%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8F%88%E6%9C%89%E4%BA%BA%E6%81%B6%E6%84%8F%E6%94%BB%E5%87%BB%E4%BA%86%EF%BC%81%3C%E4%B9%9F%E8%AE%B8%E7%94%A8%E6%B1%87%E7%BC%96%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E4%B8%BB%E6%84%8F%EF%BC%9F%3Cprintf(%22Hello%2CWorld!%5Cn%22);%3CAlt%2BF4%3CWinDBG!%3C%E8%AF%B7%E8%AE%BF%E9%97%AELJNT.XYZ!%3CHello!+CQ!%3C%E7%94%B5%E8%84%91hang%E6%AD%BB%E6%80%8E%E4%B9%88%E5%8A%9E%3CLOGO%E5%92%8CBASIC%E6%88%91%E6%9C%80%E7%86%9F%E6%82%89%E5%95%A6%3CSyntax+Error)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=Visit+efish.top!%3Dcout+%3C%3C+%22Hello%2C+World!%22;%3D%3Cbody%3EHello%2C+World!%3C%2Fbody%3E%3Dprint(%22Hello%2C+World!%22)%3Decho+Hello%2C+World!%3DSystem.out.println(%22Hello%2C+World!%22);%3Dconsole.log(%22Hello%2C+World!%22);console.log()+%3DSyntaxError%3A+invalid+syntax)](https://git.io/typing-svg)
 <div align="center">
   <b>主页浏览 / Profile Visits</b>
   <img src="https://profile-counter.glitch.me/ziyang-bai/count.svg" alt="icon" width="130px">
@@ -22,14 +22,12 @@ Use some things that people think are outdated
 
 
 ## 编程语言 / Programming language
-[![HTML](https://img.shields.io/badge/HTML-little-grey?logo=html5&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![Delphi](https://img.shields.io/badge/Delphi-good-grey?logo=delphi&logoColor=white&style=flat-square&labelColor=blue)](https://embarcadero.com)
+[![HTML](https://img.shields.io/badge/HTML-some-grey?logo=html5&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
 [![C/C++](https://img.shields.io/badge/C++-some-grey?logo=cplusplus&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
 [![Python](https://img.shields.io/badge/Python-good-grey?logo=python&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
 [![Java](https://img.shields.io/badge/Java-little-grey?logo=openjdk&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![Fortran](https://img.shields.io/badge/Fortran-little-grey?logo=fortran&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![BatchFile](https://img.shields.io/badge/BatchFile-little-grey?logo=windows&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
 [![Shell](https://img.shields.io/badge/Shell-little-grey?logo=shell&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
+[![JavaScript](https://img.shields.io/badge/JavaScript-some-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
 
 ## 使用工具 / Tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiNmZmZmZmYiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==)](https://code.visualstudio.com)
