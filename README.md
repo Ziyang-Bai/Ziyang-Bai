@@ -53,6 +53,10 @@ Use some things that people think are outdated
 [![Nmap](https://img.shields.io/badge/Nmap-orange?logoColor=white&style=flat-square&logo=nmap)](https://nmap.org)
 [![Oracle VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-orange?logoColor=white&style=flat-square&logo=oracle)](https://www.virtualbox.org)
 [![010 Editor](https://img.shields.io/badge/010_Editor-blue?logoColor=white&style=flat-square&logo=010_Editor)](https://www.sweetscape.com/010editor/)
+## 状态 / Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziyang-Bai)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 关于 / About
 有问题，那么，请发邮件给我吧！
 ## 联系方式 / Contact
