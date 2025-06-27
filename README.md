@@ -53,7 +53,7 @@ Interested in all kinds of technologies, whether advanced, classical, modern or 
 
 If there is a problem, then please email me! If you like my project, please consider donating.
 
-[![爱发电](https://img.shields.io/badge/ifdian-purple？logoColor=white&style=flat-square&logo=爱发电)](https://afdian.com/a/Ziyang-bai)
+[![爱发电](https://img.shields.io/badge/ifdian-purple?logoColor=white&style=flat-square&logo=爱发电)](https://afdian.com/a/Ziyang-bai)
 
 ## 联系方式 / Contact
 [![Email](https://img.shields.io/badge/Email-blue?logoColor=white&style=flat-square&logo=gmail)](mailto:baiziyang2022@gmail.net)
