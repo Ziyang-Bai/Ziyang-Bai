@@ -7,7 +7,9 @@
 
 ## 你好！我是Ziyang-Bai
 - Hello I'm Ziyang-Bai
+- 
 对各类技术感兴趣，不论是先进的，古典的，现代的，亦或者淘汰的。
+
 Interested in all kinds of technologies, whether advanced, classical, modern or obsolete.
 ## 我的技能 / My skills
 
@@ -53,7 +55,7 @@ Interested in all kinds of technologies, whether advanced, classical, modern or 
 
 If there is a problem, then please email me! If you like my project, please consider donating.
 
-[![爱发电](https://img.shields.io/badge/ifdian-purple?logoColor=white&style=flat-square&logo=爱发电)](https://afdian.com/a/Ziyang-bai)
+[![爱发电](https://img.shields.io/badge/爱发电-purple?logoColor=white&style=flat-square&logo=爱发电)](https://afdian.com/a/Ziyang-bai)
 
 ## 联系方式 / Contact
 [![Email](https://img.shields.io/badge/Email-blue?logoColor=white&style=flat-square&logo=gmail)](mailto:baiziyang2022@gmail.net)
