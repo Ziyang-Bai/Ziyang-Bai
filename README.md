@@ -7,19 +7,9 @@
 
 ## 你好！我是Ziyang-Bai
 - Hello I'm Ziyang-Bai
-一个啥都会一点，但是又不是很精通的程序员
-- A programmer who knows a little bit of everything but not very proficient
+对各类技术感兴趣，不论是先进的，古典的，现代的，亦或者淘汰的。
+Interested in all kinds of technologies, whether advanced, classical, modern or obsolete.
 ## 我的技能 / My skills
-
-
-服务器维护 / Server Maintenance
-
-总是会有一些新颖的想法，但是又不知道怎么实现 / 
-Always have some new ideas but don't know how to implement them
-
-会用一些人们认为已经过时的东西 / 
-Use some things that people think are outdated
-
 
 ## 编程语言 / Programming language
 [![HTML](https://img.shields.io/badge/HTML-some-grey?logo=html5&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
@@ -59,6 +49,8 @@ Use some things that people think are outdated
 
 ## 关于 / About
 有问题，那么，请发邮件给我吧！
+如果你喜欢我的项目，请考虑捐赠。
+[![010 Editor]](https://img.shields.io/badge/ifdian-purple？logoColor=white&style=flat-square&logo=ifdian)(https://afdian.com/a/Ziyang-bai)
 ## 联系方式 / Contact
 [![Email](https://img.shields.io/badge/Email-blue?logoColor=white&style=flat-square&logo=gmail)](mailto:baiziyang2022@gmail.net)
 [![Website](https://img.shields.io/badge/Website-blue?logoColor=white&style=flat-square&logo=website)](https://www.efish.top)
