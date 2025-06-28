@@ -202,6 +202,16 @@ def main():
             margin: 16px 0;
         }
         
+        /* GitHub contributions 图表样式 */
+        img[src*="github-contribution-grid-snake"], 
+        img[src*="github-contributions"],
+        img[src*="contrib.rocks"],
+        img[src*="activity-graph"],
+        img[src*="ghchart.rshah.org"] {
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        
         /* 居中对齐的 div */
         div[align="center"] {
             text-align: center;

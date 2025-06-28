@@ -70,6 +70,8 @@ Skilled in reverse engineering, programming development, hardware design, and se
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyang-bai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub Contributions](https://ghchart.rshah.org/Ziyang-Bai)
+
 
 ## 关于 / About
 有问题，那么，请发邮件给我吧！
