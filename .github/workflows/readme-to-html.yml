@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main  # 你也可以换成 'master' 或其他分支名
+    paths:
+      - 'README.md'  # 只有当 README.md 发生更改时才触发
+  workflow_dispatch:  # 允许手动触发工作流
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,6 +18,16 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 获取完整历史记录以便比较更改
+
+    - name: Check if README.md exists
+      run: |
+        if [ ! -f "README.md" ]; then
+          echo "ERROR: README.md file not found in repository"
+          exit 1
+        fi
+        echo "README.md found"
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -21,21 +37,140 @@ jobs:
     - name: Install Markdown converter
       run: pip install markdown
 
-    - name: Convert README.md to index.html
+    - name: Create conversion script
       run: |
-        python -c "
-import markdown
-with open('README.md', 'r', encoding='utf-8') as f:
-    text = f.read()
-html = markdown.markdown(text)
-with open('index.html', 'w', encoding='utf-8') as f:
-    f.write('<!DOCTYPE html><html><head><meta charset=\"UTF-8\"></head><body>' + html + '</body></html>')
-        "
+        cat > convert.py << 'EOF'
+        import markdown
+        import os
+        
+        # Check if README.md exists
+        if not os.path.exists('README.md'):
+            print('README.md not found')
+            exit(1)
+        
+        # Read README.md
+        with open('README.md', 'r', encoding='utf-8') as f:
+            text = f.read()
+        
+        # Convert to HTML with enhanced styling
+        html = markdown.markdown(text, extensions=['fenced_code', 'tables', 'toc'])
+        
+        # Create a beautiful HTML template
+        template = """<!DOCTYPE html>
+        <html lang="zh-CN">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>README</title>
+            <style>
+                body {
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+                    line-height: 1.6;
+                    color: #24292f;
+                    max-width: 1012px;
+                    margin: 0 auto;
+                    padding: 32px;
+                    background-color: #ffffff;
+                }
+                h1, h2, h3, h4, h5, h6 {
+                    margin-top: 24px;
+                    margin-bottom: 16px;
+                    font-weight: 600;
+                    line-height: 1.25;
+                }
+                h1 { 
+                    font-size: 2em; 
+                    border-bottom: 1px solid #eaecf0; 
+                    padding-bottom: 10px; 
+                }
+                h2 { 
+                    font-size: 1.5em; 
+                    border-bottom: 1px solid #eaecf0; 
+                    padding-bottom: 8px; 
+                }
+                pre {
+                    padding: 16px;
+                    overflow: auto;
+                    font-size: 85%;
+                    line-height: 1.45;
+                    background-color: #f6f8fa;
+                    border-radius: 6px;
+                }
+                code {
+                    padding: 0.2em 0.4em;
+                    font-size: 85%;
+                    background-color: rgba(175,184,193,0.2);
+                    border-radius: 6px;
+                }
+                pre code {
+                    background-color: transparent;
+                    padding: 0;
+                }
+                blockquote {
+                    padding: 0 1em;
+                    color: #656d76;
+                    border-left: 0.25em solid #d0d7de;
+                    margin: 0;
+                }
+                table {
+                    border-spacing: 0;
+                    border-collapse: collapse;
+                    width: 100%;
+                    margin: 16px 0;
+                }
+                table th, table td {
+                    padding: 6px 13px;
+                    border: 1px solid #d0d7de;
+                }
+                table th {
+                    font-weight: 600;
+                    background-color: #f6f8fa;
+                }
+                a {
+                    color: #0969da;
+                    text-decoration: none;
+                }
+                a:hover {
+                    text-decoration: underline;
+                }
+                img {
+                    max-width: 100%;
+                    height: auto;
+                }
+            </style>
+        </head>
+        <body>
+        {content}
+        </body>
+        </html>"""
+        
+        # Write to index.html
+        with open('index.html', 'w', encoding='utf-8') as f:
+            f.write(template.format(content=html))
+        
+        print('Successfully converted README.md to index.html')
+        EOF
+
+    - name: Convert README.md to index.html
+      run: python convert.py
 
     - name: Commit and push index.html
       run: |
-        git config --global user.name 'github-actions'
-        git config --global user.email 'github-actions@github.com'
-        git add index.html
-        git commit -m 'Auto-generate index.html from README.md' || echo "No changes to commit"
-        git push
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        
+        # Check if index.html was created
+        if [ ! -f "index.html" ]; then
+          echo "Error: index.html was not created"
+          exit 1
+        fi
+        
+        # Check if there are any changes
+        if git diff --quiet HEAD -- index.html; then
+          echo "No changes to index.html, skipping commit"
+        else
+          git add index.html
+          git commit -m "Auto-update index.html from README.md"
+          git push
+          echo "Successfully committed and pushed index.html"
+        fi
