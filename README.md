@@ -7,19 +7,23 @@
 
 ## 你好！我是Ziyang-Bai
 - Hello I'm Ziyang-Bai
-- 
+
 对各类技术感兴趣，不论是先进的，古典的，现代的，亦或者淘汰的。
 
+擅长逆向工程、编程开发、硬件设计和服务器运维，同时热衷于胶片摄影艺术。目前正在开发自制编程语言 **Lamina** 和化学实用软件 **Chem2Line**。
+
 Interested in all kinds of technologies, whether advanced, classical, modern or obsolete.
+
+Skilled in reverse engineering, programming development, hardware design, and server operations, with a passion for film photography. Currently developing a custom programming language **Lamina** and a practical chemistry software **Chem2Line**.
 ## 我的技能 / My skills
 
 ## 编程语言 / Programming language
-[![HTML](https://img.shields.io/badge/HTML-some-grey?logo=html5&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![C/C++](https://img.shields.io/badge/C++-some-grey?logo=cplusplus&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![Python](https://img.shields.io/badge/Python-good-grey?logo=python&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![Java](https://img.shields.io/badge/Java-little-grey?logo=openjdk&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![Shell](https://img.shields.io/badge/Shell-little-grey?logo=shell&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
-[![JavaScript](https://img.shields.io/badge/JavaScript-some-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=blue)](https://www.ljnt.xyz)
+[![HTML](https://img.shields.io/badge/HTML-some-grey?logo=html5&logoColor=white&style=flat-square&labelColor=blue)](https://html.spec.whatwg.org/)
+[![C/C++](https://img.shields.io/badge/C++-some-grey?logo=cplusplus&logoColor=white&style=flat-square&labelColor=blue)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-good-grey?logo=python&logoColor=white&style=flat-square&labelColor=blue)](https://python.org)
+[![Java](https://img.shields.io/badge/Java-little-grey?logo=openjdk&logoColor=white&style=flat-square&labelColor=blue)](https://www.oracle.com/java/)
+[![Shell](https://img.shields.io/badge/Shell-little-grey?logo=shell&logoColor=white&style=flat-square&labelColor=blue)](https://www.gnu.org/software/bash/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-some-grey?logo=javascript&logoColor=white&style=flat-square&labelColor=blue)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 使用工具 / Tools
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue?logoColor=white&style=flat-square&logo=data:image/svg+xml;charset=utf-8;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9IiNmZmZmZmYiIGQ9Ik05MC43NjcgMTI3LjEyNmE3Ljk2OCA3Ljk2OCAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMyOCA1LjMyOCAwIDAgMC02LjgwNy4zMDJsLTcuMDQ4IDYuNDExYTUuMzM1IDUuMzM1IDAgMCAwLS4wMDYgNy44ODhMMjAuNzk2IDY0IDEuNzQgODEuMzg3YTUuMzM2IDUuMzM2IDAgMCAwIC4wMDYgNy44ODdsNy4wNDggNi40MTFhNS4zMjcgNS4zMjcgMCAwIDAgNi44MDcuMzAzbDIxLjk3NC0xNi42OCA1MC40NSA0Ni4wMjVhNy45NiA3Ljk2IDAgMCAwIDIuNzQzIDEuNzkzWm01LjI1Mi05Mi4xODNMNTcuNzQgNjRsMzguMjggMjkuMDU4VjM0Ljk0M1oiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==)](https://code.visualstudio.com)
@@ -36,17 +40,35 @@ Interested in all kinds of technologies, whether advanced, classical, modern or 
 [![Xftp](https://img.shields.io/badge/Xftp-blue?logoColor=white&style=flat-square&logo=xftp)](https://xftp.net)
 ![Xmanager](https://img.shields.io/badge/Xmanager-blue?logoColor=white&style=flat-square&logo=xmanager)
 [![Xmanager](https://img.shields.io/badge/Xmanager-blue?logoColor=white&style=flat-square&logo=xmanager)](https://xmanager.net)
-[![Wireshark](https://img.shields.io/badge/Wireshark-orange?logoColor=white&style=flat-square&logo=wireshark)](https://wireshark.org)
-[![WinDBG](https://img.shields.io/badge/WinDBG-blue?logoColor=white&style=flat-square&logo=winDBG)](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
-[![WinDbg Preview](https://img.shields.io/badge/WinDbg_Preview-blue?logoColor=white&style=flat-square&logo=winDBG)](https://github.com/microsoft/WinDbg-Samples)
 [![Firefox](https://img.shields.io/badge/Firefox-orange?logoColor=white&style=flat-square&logo=firefox)](https://www.mozilla.org)
 [![Chrome](https://img.shields.io/badge/Chrome-orange?logoColor=white&style=flat-square&logo=google-chrome)](https://www.google.com/chrome)
-[![KiCad](https://img.shields.io/badge/KiCad-orange?logoColor=white&style=flat-square&logo=kicad)](https://kicad.org)
 [![Nmap](https://img.shields.io/badge/Nmap-orange?logoColor=white&style=flat-square&logo=nmap)](https://nmap.org)
 [![Oracle VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-orange?logoColor=white&style=flat-square&logo=oracle)](https://www.virtualbox.org)
 [![010 Editor](https://img.shields.io/badge/010_Editor-blue?logoColor=white&style=flat-square&logo=010_Editor)](https://www.sweetscape.com/010editor/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-blue?logoColor=white&style=flat-square&logo=notepadplusplus)](https://notepad-plus-plus.org)
+[![IDA Pro](https://img.shields.io/badge/IDA_Pro-red?logoColor=white&style=flat-square&logo=ida)](https://hex-rays.com/ida-pro/)
+[![JADX](https://img.shields.io/badge/JADX-green?logoColor=white&style=flat-square&logo=jadx)](https://github.com/skylot/jadx)
+[![DIE](https://img.shields.io/badge/DIE-purple?logoColor=white&style=flat-square&logo=die)](https://github.com/horsicq/Detect-It-Easy)
+[![Dependency Walker](https://img.shields.io/badge/Dependency_Walker-grey?logoColor=white&style=flat-square&logo=dependencywalker)](https://www.dependencywalker.com)
+[![ILSpy](https://img.shields.io/badge/ILSpy-blue?logoColor=white&style=flat-square&logo=ilspy)](https://github.com/icsharpcode/ILSpy)
+[![WinDBG](https://img.shields.io/badge/WinDBG-blue?logoColor=white&style=flat-square&logo=winDBG)](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools)
+[![WinDbg Preview](https://img.shields.io/badge/WinDbg_Preview-blue?logoColor=white&style=flat-square&logo=winDBG)](https://github.com/microsoft/WinDbg-Samples)
+[![Wireshark](https://img.shields.io/badge/Wireshark-orange?logoColor=white&style=flat-square&logo=wireshark)](https://wireshark.org)
+[![KiCad](https://img.shields.io/badge/KiCad-orange?logoColor=white&style=flat-square&logo=kicad)](https://kicad.org)
+[![STM32](https://img.shields.io/badge/STM32-blue?logoColor=white&style=flat-square&logo=stmicroelectronics)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![ST Visual Programmer](https://img.shields.io/badge/ST_Visual_Programmer-blue?logoColor=white&style=flat-square&logo=stmicroelectronics)](https://www.st.com/en/development-tools/stvp-stm32.html)
+[![ST-LINK Utility](https://img.shields.io/badge/ST--LINK_Utility-blue?logoColor=white&style=flat-square&logo=stmicroelectronics)](https://www.st.com/en/development-tools/stsw-link004.html)
+[![Keil uVision5](https://img.shields.io/badge/Keil_uVision5-orange?logoColor=white&style=flat-square&logo=keil)](https://www.keil.com/uvision/)
+
+## 正在开发的项目 / Current Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziyang-bai&repo=Lamina)](https://github.com/ziyang-bai/Lamina)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziyang-bai&repo=Chem2Line)](https://github.com/ziyang-bai/Chem2Line)
+
 ## 状态 / Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ziyang-Bai)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziyang-bai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 关于 / About
@@ -60,4 +82,4 @@ If there is a problem, then please email me! If you like my project, please cons
 ## 联系方式 / Contact
 [![Email](https://img.shields.io/badge/Email-blue?logoColor=white&style=flat-square&logo=gmail)](mailto:baiziyang2022@gmail.net)
 [![Website](https://img.shields.io/badge/Website-blue?logoColor=white&style=flat-square&logo=website)](https://www.efish.top)
-[![主页Page](https://img.shields.io/badge/HomePage-blue?logoColor=white&style=flat-square&logo=website)](https://ziyang-bai.github.io)
+[![Home Page](https://img.shields.io/badge/HomePage-blue?logoColor=white&style=flat-square&logo=website)](https://ziyang-bai.com)
