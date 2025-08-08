@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=Visit+efish.top!%3Dcout+%3C%3C+%22Hello%2C+World!%22;%3D%3Cbody%3EHello%2C+World!%3C%2Fbody%3E%3Dprint(%22Hello%2C+World!%22)%3Decho+Hello%2C+World!%3DSystem.out.println(%22Hello%2C+World!%22);%3Dconsole.log(%22Hello%2C+World!%22);console.log()+%3DSyntaxError%3A+invalid+syntax)](https://git.io/typing-svg)
 <div align="center">
   <b>主页浏览 / Profile Visits</b>
-  <img src="[https://komarev.com/ghpvc/?username=ziyang-bai](https://komarev.com/ghpvc/?username=ziyang-bai)" alt="icon" width="130px">
+  <img src="https://komarev.com/ghpvc/?username=ziyang-bai" alt="icon" width="130px">
 </div>
 
 
